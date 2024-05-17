@@ -19,7 +19,7 @@
   "dependencies": {
     "@emotion/react": "11.11.4",
     "@fluentui/react": "8.118.2",
-    "adaptivecards": "2.11.0",
+    "adaptivecards": "2.11.3",
     "botframework-directlinejs": "0.15.5",
     "botframework-webchat": "0.0.0-0",
     "botframework-webchat-core": "0.0.0-0",
