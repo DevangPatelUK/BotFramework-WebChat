@@ -34,7 +34,7 @@
   "dependencies": {
     "@microsoft/microsoft-graph-client": "^2.2.1",
     "botbuilder": "^4.22.2",
-    "botbuilder-dialogs": "^4.22.2",
+    "botbuilder-dialogs": "^4.22.3",
     "dotenv": "^16.4.5",
     "restify": "^11.1.0"
   },
