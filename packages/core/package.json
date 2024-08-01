@@ -86,7 +86,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@babel/runtime": "7.19.0",
+    "@babel/runtime": "7.24.8",
     "jwt-decode": "4.0.0",
     "math-random": "2.0.1",
     "mime": "4.0.3",
