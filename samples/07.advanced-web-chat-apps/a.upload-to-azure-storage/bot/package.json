@@ -15,7 +15,7 @@
   "author": "Microsoft Corporation",
   "license": "MIT",
   "dependencies": {
-    "@azure/storage-blob": "^12.17.0",
+    "@azure/storage-blob": "^12.24.0",
     "botbuilder": "^4.22.2",
     "botbuilder-dialogs": "^4.22.2",
     "bytes": "^3.1.2",
