@@ -120,7 +120,7 @@
     "abort-controller-es5": "2.0.1",
     "base64-arraybuffer": "1.0.2",
     "core-js": "3.37.0",
-    "event-as-promise": "1.0.5",
+    "event-as-promise": "1.1.0",
     "event-target-shim": "6.0.2",
     "math-random": "2.0.1",
     "microsoft-cognitiveservices-speech-sdk": "1.17.0",
