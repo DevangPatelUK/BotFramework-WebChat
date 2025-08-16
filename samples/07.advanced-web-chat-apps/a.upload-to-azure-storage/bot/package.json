@@ -19,7 +19,7 @@
     "botbuilder": "^4.22.2",
     "botbuilder-dialogs": "^4.22.2",
     "bytes": "^3.1.2",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.6.1",
     "restify": "^11.1.0"
   },
   "devDependencies": {
